@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.4.1",
-    "express": "^4.13.4",
-    "vivagraphjs": "^0.8.1"
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "vivagraphjs": "^0.10.1"
   }
 }
